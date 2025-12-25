@@ -1,0 +1,31 @@
+# Backend
+backend/__pycache__/
+backend/.env
+backend/*.db
+backend/.venv/
+backend/venv/
+backend/env/
+backend/.pytest_cache/
+backend/*.pyc
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.eslintcache
+frontend/coverage/
+frontend/build/
+frontend/.DS_Store
+frontend/dist/
+
+# Général
+.DS_Store
+.vscode/
+.idea/
+*.log
